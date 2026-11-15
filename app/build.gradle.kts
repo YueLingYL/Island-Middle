@@ -17,7 +17,7 @@ android {
     compileSdkExtension = 0
 
     defaultConfig {
-        applicationId = "com.soul.islandmiddle"
+        applicationId = "io.github.yuelingyl.islandmiddle"
         minSdk = 26
         targetSdk = 36
         versionCode = 1
