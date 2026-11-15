@@ -32,6 +32,10 @@ LSPosed 模块：让平板（HyperOS）的灵动岛缩小态 / 展开态走手�
 
 签名配置见 `keystore.properties`（不入库），字段：`storeFile` / `storePassword` / `keyAlias` / `keyPassword`。
 
+## 贡献者
+
+- 感谢 Agent！
+
 ## 说明
 
 - 仅处理给定 `MiuiSystemUI.apk` / 插件逻辑，不改包签名
