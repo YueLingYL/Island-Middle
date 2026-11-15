@@ -22,7 +22,7 @@
             android:value="true" />
         <meta-data
             android:name="xposeddescription"
-            android:value="@string/xposed_description" />
+            android:value="LSPosed module: make the HyperOS tablet Dynamic Island follow the phone / foldable code path." />
         <meta-data
             android:name="xposedminversion"
             android:value="93" />
